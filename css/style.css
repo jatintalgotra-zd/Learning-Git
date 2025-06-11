@@ -6,3 +6,13 @@ body{
 h1{
   color: aqua;
 }
+p{
+  color: aliceblue;
+  font-family: sans-serif;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+
+  text-align: left;
+}
